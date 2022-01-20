@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!---we need two arrays, one for the icons and one for the colors of the icons-->
+    <!--icons arrays-->
+    <array name="icons">
+        <item>@drawable/ic_home_notes_white24</item>
+        <item>@drawable/ic_home_alarm_white24</item>
+        <item>@drawable/ic_home_calendar_white24</item>
+        <item>@drawable/ic_home_watch_whait24</item>
+    </array>
+
+    <!--icons arrays-->
+    <array name="colors">
+        <item>@android:color/holo_blue_light</item>
+        <item>@android:color/holo_green_dark</item>
+        <item>@android:color/holo_red_light</item>
+        <item>@android:color/holo_purple</item>
+    </array>
+</resources>
